@@ -9,7 +9,7 @@ Los mensajes se envían (difunden) por broadcast (`FF:FF:FF:FF:FF:FF`) codificad
 Para iniciar la recepción de mensajes:
 
 ```bash
-python chat.py --receive <interfaz>
+python chat.py --receive [interfaz]
 ```
 
 > Siendo `interfaz` la interfaz de red por la que se van recibir los mensajes.
