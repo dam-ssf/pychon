@@ -2,7 +2,7 @@
 
 Pequeña aplicación de chat para enviar marcos (frames) a nivel de enlace (nivel 2).
 
-Los mensajes se envían (difunden) por broadcast (`FF:FF:FF:FF:FF:FF)` codificados en UTF-8 y con EtherType `0x1234`.
+Los mensajes se envían (difunden) por broadcast (`FF:FF:FF:FF:FF:FF`) codificados en UTF-8 y con EtherType `0x1234`.
 
 ## Uso
 
