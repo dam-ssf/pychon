@@ -87,4 +87,4 @@ if __name__ == "__main__":
                 else:
                     break
         case _:
-            print("Opción no válida")
+            print("Uso: python chat.py [--receive [nic] | --send]")
