@@ -42,4 +42,10 @@ Para generar el fichero de dependencias (en caso de que sea necesario):
 pip freeze > requirements.txt
 ```
 
-
+> [!IMPORTANT]
+> 
+> **Windows**: Se requiere que esté instalada la librería WinPCap en el sistema:
+> 
+> ```bash
+> choco install -y winpcap
+> ```
